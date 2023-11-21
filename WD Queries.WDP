@@ -1,0 +1,169 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Queries
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Queries project
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Queries
+    internal_properties : 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
+    configuration_id : 17118623078867194687
+    type : 1
+    generation_name : WD Queries.exe
+    version :
+     version : VI200041K
+     autoincrement_version : false
+    icon_filename : .\query.ico
+    language : 2
+ elements :
+  identifier : 0x4acc53540025006e
+  elements :
+   -
+     name : QRY_CALCULATION
+     identifier : 0x3e53c52e359d545c
+     internal_properties : CAAAAAgAAADMSiRwz/S87/brWvDrTOnHWnsRSQV+/duKvOA4oPGbnb9H8xsqnhaIw395R88B+e/ZWQ==
+     physical_name : .\QRY_CALCULATION.WDR
+     type : 5
+   -
+     name : QRY_SELECTION_WITH_PARAMETERS
+     identifier : 0x3e53c529429e545c
+     internal_properties : CAAAAAgAAABCOLru3YqivRBJPNaZW/s9jM9bQ+E65s5KTGm3tfyYQPwS6AY8jPjqYd3HMfHvi31Hzw==
+     physical_name : .\QRY_SELECTION_WITH_PARAMETERS.WDR
+     type : 5
+   -
+     name : RPT_CALC_QUERY
+     identifier : 0x3e53c52b07ae545c
+     internal_properties : CAAAAAgAAACMiuQwD7T8LzYrmrArnj3rgqfBEcOLukzoV9n5kLtZp0X5IV3q3lZIg785hw/BuS+ZmQ==
+     physical_name : .\RPT_CALC_QUERY.wde
+     type : 3
+   -
+     name : WIN_SIMPLE_QUERY
+     identifier : 0x3e53c52a0325545c
+     internal_properties : CAAAAAgAAABJxbFVUg8nyO0G5R9Chibg96TCCujnUxLLwY3GdKd3sVvlF2fTNa8jrmpUrHRsFIRM1A==
+     physical_name : .\WIN_SIMPLE_QUERY.wdw
+     type : 2
+   -
+     name : TEST_WIN_QUERY_WITH_PARAMETERS
+     identifier : 0x472f156e00040068
+     internal_properties : CAAAAAgAAADeRDbq2YauQQRNMMqdIvvNxJXT+7X5Yk6KnOhtoJcFw03VAQ04iPzuZdHLNf3zjwHLSw==
+     physical_name : .\TEST_WIN_QUERY_WITH_PARAMETERS.wxt
+     type : 17
+   -
+     name : TEST_WIN_INFO
+     identifier : 0x472f156d0002fbf5
+     internal_properties : CAAAAAgAAABSqIqeLRoSzeAZjAapH6sFHL/bA7fL1R2KmD/eJ8BU1HiGtNpsXMg6sW1XoWGfW023vw==
+     physical_name : .\TEST_WIN_INFO.wxt
+     type : 17
+   -
+     name : TEST_WIN_MENU
+     identifier : 0x472f154f00008994
+     internal_properties : CAAAAAgAAADDvztvXAkhOpPIu1EUc8ySlbDcHLjs8ZWqgK1oV8BKznL+PkAJ/3Vp4FxGsnJuCv7GTg==
+     physical_name : .\TEST_WIN_MENU.wxt
+     type : 17
+   -
+     name : TEST_WIN_CALC_QUERY
+     identifier : 0x472f156d0003fe08
+     internal_properties : CAAAAAgAAAA7F2OnBEHp8sswk6k8TPAuQd6U1P6Kzza2VRANsnUZ7wEz5Rkh511RmIR+ejq2QrYeJg==
+     physical_name : .\TEST_WIN_CALC_QUERY.wxt
+     type : 17
+   -
+     name : WIN_QUERY_WITH_PARAMETERS
+     identifier : 0x3e53c52f50d9545c
+     internal_properties : CAAAAAgAAABt6UVZZtNbBClSMcueJ4I8T24GboIp4jCj+zJrJwSOYpJC9gg3ifvveqYQ6KhYIJB4+A==
+     physical_name : .\WIN_QUERY_WITH_PARAMETERS.wdw
+     type : 2
+   -
+     name : WIN_INFO
+     identifier : 0x3e53c52878bb545c
+     internal_properties : CAAAAAgAAABi2FpOfSqCnbCpHDa5w1utLH8rI8ynKduQD1dNWMRQiLS6YK6cbNjKAT2nEZFPK51n7w==
+     physical_name : .\WIN_INFO.wdw
+     type : 2
+   -
+     name : QRY_SIMPLE_SELECTION
+     identifier : 0x3e53c53145dd545c
+     internal_properties : CAAAAAgAAADOVCZ6yfa+8fQ9oFoNeN95JFHzGyNsr59Oayjw7KV3Uf8jO0MI+GxelYF7Rc0D//HbWw==
+     physical_name : .\QRY_SIMPLE_SELECTION.WDR
+     type : 5
+   -
+     name : WIN_MENU
+     identifier : 0x3e53c53254c4545c
+     internal_properties : CAAAAAgAAADEQiwIt+zE584zkqgzX/Enfn0FXYkJxzj2kVimCwCcZJxW4B4i5l5Qm4dxT9cJ8efRUQ==
+     physical_name : .\WIN_MENU.wdw
+     type : 2
+   -
+     name : TEST_WIN_SIMPLE_QUERY
+     identifier : 0x472f156c0001f9f2
+     internal_properties : CAAAAAgAAABCOLru3YqivRBJPNaZNochQOGfx/GVqFeKPMwJtHMh7wk53RE8jPjqYd3HMfHvi31Hzw==
+     physical_name : .\TEST_WIN_SIMPLE_QUERY.wxt
+     type : 17
+   -
+     name : WIN_CALC_QUERY
+     identifier : 0x3e53c533373e545c
+     internal_properties : CAAAAAgAAAAFAW2xjiuDnKHaSUNmpG6QI7zeLsCHmy+5K0UUjr1Rp12TSaWvEYN38i6oEJBAOKgQEA==
+     physical_name : .\WIN_CALC_QUERY.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Queries.ana\WD Queries.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Queries
+     identifier : 0x4acc53540035010a
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    name : Windows Store Apps API
+    explorer_type : custom_folder
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
